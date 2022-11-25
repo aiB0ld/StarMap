@@ -181,6 +181,8 @@ const UsecasePageContent = () => {
         return capability_information.map(info => {
             if (id === info.id) {
                 return info.name;
+            } else {
+                return null;
             }
         })
     }
