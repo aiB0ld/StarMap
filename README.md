@@ -1,5 +1,5 @@
 # STARTMAP
-[Live version](https://starmap.netlify.app/)
+[Live version](https://mrstarmap.netlify.app/)
 
 ![image](https://user-images.githubusercontent.com/40753283/81455316-83a30200-9154-11ea-8572-ce9e28024020.png)
 
@@ -11,7 +11,7 @@ Created with [Create React App](https://github.com/facebook/create-react-app).
 
 1. Clone this repo locally.
 
-```git clone https://github.com/UIUC-DDDG-AR/StarMap.git```
+```git clone https://github.com/aiB0ld/StarMap.git```
 
 2. Change local directory to StarMap/.
 
